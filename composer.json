@@ -1,0 +1,10 @@
+{
+    "name": "emily/priprojphp",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Emily\\Priprojphp\\": "src/"
+        }
+    },
+    "require": {}
+}
